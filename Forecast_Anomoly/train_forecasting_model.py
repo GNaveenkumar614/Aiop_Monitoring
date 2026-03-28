@@ -3,6 +3,7 @@
  script trains Prophet time-series forecasting models on historical
 metrics from Prometheus. It learns trends and seasonal patterns to enable
 proactive capacity planning.
+Fetch histrocal data and Training Prophet model on historical data
 """
 
 import os
