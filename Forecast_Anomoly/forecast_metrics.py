@@ -3,6 +3,7 @@
 
 This script uses trained Prophet models to generate forecasts for infrastructure
 metrics and predict capacity exhaustion dates for proactive planning.
+the  data is fectched from TSDB of Prometheus
 """
 
 import os
